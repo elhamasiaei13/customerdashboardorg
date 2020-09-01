@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c30bb547.chunk.css",
+    "main.js": "/static/js/main.720a3680.chunk.js",
+    "main.js.map": "/static/js/main.720a3680.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.adb4ba08.chunk.css": "/static/css/2.adb4ba08.chunk.css",
+    "static/js/2.0423e89a.chunk.js": "/static/js/2.0423e89a.chunk.js",
+    "static/js/2.0423e89a.chunk.js.map": "/static/js/2.0423e89a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1cfe8f9bbb9eb02c8caf03f9cac70171.js": "/precache-manifest.1cfe8f9bbb9eb02c8caf03f9cac70171.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.adb4ba08.chunk.css.map": "/static/css/2.adb4ba08.chunk.css.map",
+    "static/css/main.c30bb547.chunk.css.map": "/static/css/main.c30bb547.chunk.css.map",
+    "static/media/App.css": "/static/media/NotoNaskhArabic-Regular.649e4691.ttf",
+    "static/media/style.min.css": "/static/media/zw.87168014.svg",
+    "static/media/eye.png": "/static/media/eye.df6005c4.png",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.dfb02f8f.woff"
+  }
+}
